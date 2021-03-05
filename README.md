@@ -1,4 +1,7 @@
 # Monte-Carlo-WF-Mathematica
+
+![](https://img.shields.io/static/v1?label=Version&message=0.1&color=red)
+
 A Mathematica library to deal with Monte Carlo wave functions and Stochastic Master Equations. The package can be loaded with
 
 
